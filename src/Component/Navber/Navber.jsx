@@ -18,7 +18,7 @@ const Navber = () => {
     <div className="navber">
       <div className="nav-logo">
         <h1>MR9</h1>
-        <img src="/public/assets/theme_pattern.svg" alt="" />
+        <img src="/assets/theme_pattern.svg" alt="" />
       </div>
       <img
         onClick={openMenu}
