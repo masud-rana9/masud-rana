@@ -23,12 +23,12 @@ const Navber = () => {
       <img
         onClick={openMenu}
         className="nav-mob-open"
-        src="/public/assets/menu_open.svg"
+        src="/assets/menu_open.svg"
         alt=""
       />
       <ul ref={menuRef} className="nav-menu">
         <div className="nav-mob-close">
-          <img onClick={closeMenu} src="/public/assets/menu_close.svg" alt="" />
+          <img onClick={closeMenu} src="/assets/menu_close.svg" alt="" />
         </div>
         <li>
           <AnchorLink className="anchor-link" href="#home">

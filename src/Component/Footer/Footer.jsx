@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           <div className="footer-logo">
-            <img src="/public/assets/logo.png" alt="" />
+            <img src="/assets/logo.png" alt="" />
           </div>
           <p>
             I am a Fullstack developer from ,BD with 2 year of experience in
@@ -15,7 +15,7 @@ const Footer = () => {
         </div>
         <div className="footer-top-right">
           <div className="footer-top-email-input">
-            <img src="/public/assets/user_icon.svg" alt="" />
+            <img src="/assets/user_icon.svg" alt="" />
             <input type="Email" placeholder="Enter your email" />
           </div>
           <div className="footer-subscribe">Subscribe</div>

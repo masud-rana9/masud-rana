@@ -8,7 +8,7 @@ const Mywork = () => {
     <div id="work" className="mywork">
       <div className="mywork-title">
         <h1>My latest work</h1>
-        <img src="/public/assets/theme_pattern.svg" alt="" />
+        <img src="/assets/theme_pattern.svg" alt="" />
       </div>
       <div className="mywork-container">
         {mywork_data.map((work, index) => {
@@ -17,7 +17,7 @@ const Mywork = () => {
       </div>
       <div className="mywork-showmore">
         <p>Show more</p>
-        <img src="/public/assets/arrow_icon.svg" alt="" />
+        <img src="/assets/arrow_icon.svg" alt="" />
       </div>
     </div>
   );

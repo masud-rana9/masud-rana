@@ -28,7 +28,7 @@ const Contact = () => {
     <div id="contact" className="contact">
       <div className="contact-title">
         <h1>Get touch</h1>
-        <img src="/public/assets/theme_pattern.svg" alt="" />
+        <img src="/assets/theme_pattern.svg" alt="" />
       </div>
       <div className="contact-section">
         <div className="contact-left">
@@ -40,15 +40,15 @@ const Contact = () => {
           </p>
           <div className="contact-details">
             <div className="contact-detail">
-              <img src="/public/assets/mail_icon.svg" alt="" />
+              <img src="/assets/mail_icon.svg" alt="" />
               <p>rana.cse6.bu@gmail.com</p>
             </div>
             <div className="contact-detail">
-              <img src="/public/assets/call_icon.svg" alt="" />
+              <img src="/assets/call_icon.svg" alt="" />
               <p>+088 01703852464</p>
             </div>
             <div className="contact-detail">
-              <img src="/public/assets/location_icon.svg" alt="" />
+              <img src="/assets/location_icon.svg" alt="" />
               <p>Barishal,Bangladesh</p>
             </div>
           </div>

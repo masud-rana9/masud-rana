@@ -6,7 +6,7 @@ const About = () => {
     <div id="about" className="about">
       <div className="about-title">
         <h1> About me </h1>
-        <img src="/public/assets/theme_pattern.svg" alt="" />
+        <img src="/assets/theme_pattern.svg" alt="" />
       </div>
       <div className="about-section">
         <div className="about-left">
