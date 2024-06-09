@@ -1,4 +1,3 @@
-import React from "react";
 import "./About.css";
 
 const About = () => {
@@ -54,7 +53,7 @@ const About = () => {
       </div>
       <div className="about-achivments">
         <div className="about-achivement">
-          <h1>02+</h1>
+          <h1>01+</h1>
           <p>Years of Experience</p>
         </div>
         <hr />
