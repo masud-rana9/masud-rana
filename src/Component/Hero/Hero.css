@@ -61,6 +61,11 @@
   border-color: #b415ff;
 }
 
+.hero-resume a {
+  text-decoration: none;
+  color: #fff;
+}
+
 @media (max-width: 768px) {
   .hero img {
     height: 220px;
